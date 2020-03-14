@@ -1,0 +1,277 @@
+#! / system / xbin / bash
+# Bersihkan Layar
+bersih
+biru = ' \ 033 [34; 1 m '
+hijau = ' \ 033 [32; 1 m '
+ungu = ' \ 033 [35; 1 m '
+cyan = ' \ 033 [36; 1m '
+red = ' \ 033 [31; 1m '
+white = ' \ 033 [37; 1m '
+kuning = ' \ 033 [33; 1 m '
+# ############################################## #
+# Channel Arizal Gibran
+# ############################################## #
+menjebak ctrl_c INT
+ctrl_c () {
+bersih
+echo   $ red " [#]> (Ctrl + C) Terdeteksi,
+Mencoba Keluar ... "
+tidur 1
+gema  " "
+echo   $ yellow " [#]> Terima Kasih Telah Menggunakan Saya
+Alat ... "
+tidur 1
+gema  " "
+echo   $ white " [#]> Mr.clay
+Di sini ... "
+baca enter
+keluar
+}
+=================================================
+echo  $ white " Penulis: Mem resmi tim Sant Santri "
+echo  $ white " Tim: JUNIOR GUARDIAN TEAM "
+echo  $ white " Terima kasih kepada: VIP.SWORD | RIFALDI | RX KING | Mr. NEWBIE | "
+echo  $ white " Terima kasih kepada: meme indonesia "
+echo  $ white " terima kasih Kepada: SANTRI CYBER "
+echo  $ white " terima kasih Kepada: ARIZAL GIBRAN "
+echo  $ white " terima kasih Kepada: Blackhat Hacker Indonesia "
+
+=================================================
+echo   $ yellow " 01) Red Hawk "
+echo   $ yellow " 02) D-Tect "
+echo   $ yellow " 03) Top Up Ilegal ML "
+echo   $ yellow " 04) Top Up Ilegal FF "
+echo   $ yellow " 05) Webdav "
+echo   $ yellow " 06) Metasploit "
+echo   $ yellow " 07) Pulsa Gratis "
+echo   $ yellow " 08) Ubuntu "
+echo   $ yellow " 09) Youtube Dl "
+echo   $ yellow " 10) viSQL "
+echo   $ yellow " 11) multi-brute-webdav "
+echo   $ yellow " 12) Bajinganv6 "
+echo   $ yellow " 13) Tools RCT "
+echo   $ yellow " 14) cc segar Amazon Dan Untung Carding "
+echo   $ red " 15) Keluar "
+echo   $ white " "
+baca -p " [ARIZAL GIBRAN]> " bro ;
+
+if [ $ bro  = 1] || [ $ bro  = 01]
+kemudian
+bersih
+echo   $ red " Memasang Red Hawk "
+tidur 1
+pembaruan && pembaruan yang tepat
+untuk memasang php
+untuk menginstal git
+git klon 
+https://github.com/Tuhinshubhra/RED_HAWK
+echo   $ red " TERINSTALL "
+keluar
+fi
+
+if [ $ bro  = 2] || [ $ bro  = 02]
+kemudian
+bersih
+echo   $ red " Memasang D-Tect "
+tidur 1
+pembaruan apt-get && peningkatan apt-get
+apt-get install git
+apt-get install python2
+git klon 
+https://github.com/shawarkhanethicalhacker/D-TECT
+echo   $ red " TERINSTALL "
+keluar
+fi
+
+if [ $ bro  = 3] || [ $ bro  = 03]
+kemudian
+bersih
+echo   $ red " TOP UP ILEGAL ML "
+tidur 1
+echo   $ white  " Kode: 5448adq35 | Kode 5644864y36 | Kode: 3158art6455 | Kode: 90426dka656 | Kode: 6456745hkw54 | Kode: 2642x655843 "
+echo   $ red " Masukin Kode Itu Ke Atas Kalian ^ _ ^ "
+keluar
+fi
+
+if [ $ bro  = 4] || [ $ bro  = 04]
+kemudian
+bersih
+echo   $ red " TOP UP ILEGAL FF "
+tidur 1
+echo   $ white "   Kode 5458453pr9 | Kode: 260446i5m4 | Kode: 9705465d54 | Kode: 3455b623 | Kode: 84238y548 | Kode 862158t3944 "
+echo   $ red " Masukin Kode Itu Ke Atas Kalian ^ _ ^ "
+keluar
+fi
+
+if [ $ bro  = 5] || [ $ bro  = 05]
+kemudian
+bersih
+echo   $ red " Memasang Webdav "
+tidur 1
+pembaruan && pembaruan yang tepat
+untuk menginstal python2
+pip2 instal urllib3 chardet certifi idna 
+permintaan
+apt install openssl curl
+pkg instal libcurl
+mdd webdav
+cd  ~ / webdav
+wget https://pastebin.com/raw/HnVyQPtR -O 
+webdav.py
+chmod 777 webdav.py
+cd  ~ /
+echo   $ red " TERINSTALL "
+keluar
+fi
+
+if [ $ bro  = 06] || [ $ bro  = 6]
+kemudian
+bersih
+echo   $ red " Memasang Metasploit "
+tidur 1
+pembaruan && pembaruan yang tepat
+untuk menginstal git
+untuk menginstal wget
+wget
+https://raw.githubusercontent.com/verluchie/termux-metasploit/master/install.sh
+chmod 777 install.sh
+sh install.sh
+echo   $ red " TERINSTALL "
+keluar
+fi
+
+if [ $ bro  = 07] || [ $ bro  = 7]
+kemudian
+bersih
+echo   $ red " PULSA GRATIS "
+tidur 1
+echo   $ white " Kode Soviet: 2bk340dk94 | Kode Soviet: 154d955b9 | Kode Soviet: 9p54k644as5 | Kode Soviet: 844ipps456 | Kode Soviet: 5qdk548239 | Kode Soviet: 19ip9405 "
+echo   $ red " Masukin Kode Itu Ke Rendemm Pulsa Kalian ^ _ ^ "
+keluar
+fi
+
+if [ $ bro  = 08] || [ $ bro  = 8]
+kemudian
+bersih
+echo   $ red " Memasang Ubuntu "
+tidur 1
+pembaruan && pembaruan yang tepat
+untuk menginstal git
+untuk menginstal wget
+untuk menginstal proot
+git klon 
+https://github.com/Neo-Oli/termux-ubuntu.git
+cd  ~ / termux-ubuntu
+chmod + x ubuntu.sh
+sh ubuntu.sh
+echo  " Perbaiki jaringan harap tunggu "
+tidur 1
+echo  " nameserver 8.8.8.8 " 
+> /data/data/com.termux/files/home/termux-ubuntu/ubuntu-fs/etc/$
+echo   $ red " TERINSTALL "
+keluar
+fi
+
+if [ $ bro  = 09] || [ $ bro  = 9]
+kemudian
+bersih
+echo   $ red " Memasang Youtube DL "
+tidur 1
+pembaruan && pembaruan yang tepat
+untuk menginstal python
+pip3 instal mps_youtube
+pip3 instal youtube_dl
+untuk menginstal mpv
+gema  " Untuk menjalankannya jangan masukkan " mpsyt " 
+tanpa tanda petik "
+echo   $ red " TERINSTALL "
+keluar
+fi
+
+if [ $ bro  = 10] || [ $ bro  = 10]
+kemudian
+bersih
+echo   $ red " Memasang viSQL "
+tidur 1
+pembaruan && pembaruan yang tepat
+pkg instal git
+pkg instal python2
+git klon 
+https://github.com/blackvkng/viSQL.git
+cd  ~ / viSQL
+chmod 777 viSQL.py
+cd  ~ /
+echo   $ red " TERINSTALL "
+keluar
+fi
+
+if [ $ bro  = 11] || [ $ bro  = 11]
+kemudian
+bersih
+echo   $ red " Memasang Multi-Brute-Webdav "
+pembaruan && pembaruan yang tepat
+pkg pasang toilet
+pkg instal sh
+pkg instal git
+git klon 
+https://github.com/INYOURS3RV3R/Multi-Brute-Webdav
+cd  ~ / Multi-Brute-Webdav
+echo   $ red " TERINSTALL "
+keluar
+fi
+
+if [ $ bro  = 12] || [ $ bro  = 12]
+kemudian
+bersih
+echo   $ red " menginstal bajinganv6 "
+pkg instal php
+pkg instal figlet
+pkg instal python2
+permintaan instalasi pip2
+pip2 instal termcolor
+git klon 
+https://github.com/DarknessCyberTeam/BAJINGANv6.git
+cd  ~ / BAJINGANv6
+echo   $ red " TERINSTALL "
+keluar 
+fi
+
+if [ $ bro  = 13] || [ $ bro  = 13]
+kemudian
+bersih
+echo   $ red " menginstal alat RCT "
+pembaruan && pembaruan yang tepat
+pkg instal git
+git clone https://github.com/RabCT/rct
+cd  ~ / rct
+chmod + x rct
+echo   $ red " TERINSTALL "
+keluar
+fi
+
+if [ $ bro  = 14] || [ $ bro  = 14]
+kemudian
+bersih
+echo   $ red " Tobat Bro, Jangan Carding Trus Kasian Orang Tua Lu "
+tidur 1
+echo   $ white " Nama: Lita | Kartu Nomor: 2748074115574 Exp 2-2024 | Nama: Dio | Kartu Nomor: 1264460632468 Exp -9-2021 | Nama: Zaki | Kartu Nomor: 541687450045 Exp: 4-2019 | Nama: Panca | Nomor Kartu: 980412158457 Exp -8-2023 | Nama: Rio | Kartu Nomor: 29045625807524 Exp -9 - 2020 | Nama: Jessica | Kartu Nomor: 15507611507459 Exp -1 - 2024 | Nama: Gilang | Kartu Nomor: 6878541334804 Exp -9-2026 | Nama: Tia | Kartu Nomor: 2087468412546 Exp -3-2021 "
+echo   $ red "Jika Ingin Lebih Lanjut Tunggu Peng Perbarui Selanjut nya "
+keluar
+fi
+
+if [ $ bro  = 15] || [ $ bro  = 15]
+kemudian
+gema  " Terima kasih untuk arizal gibran "
+tidur 1
+gema  " kang gibran "
+tidur 1
+gema  " Bay-Bay "
+tidur 1
+gema  " Para Hacker "
+tidur 1
+echo  " Jangan Lupa Colii Yahh "
+tidur 1
+echo  " Semoga Lu Besok Mati ea Budjank "
+tidur 1
+keluar
+fi
